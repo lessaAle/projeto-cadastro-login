@@ -1,1 +1,2 @@
 Projeto pessoal de login, visando aprender o básico do desenvolvimento web de maneira mais autodidática, de quebra aprendendo sobre banco de dados, git(hub), tokenização e sistema de autenticação. 
+PRIMEIRA ATUALIZAÇÃO
